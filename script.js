@@ -6,11 +6,11 @@ const mainGif = document.getElementById("mainGif");
 let yesSize = 1;
 
 const convinceTexts = [
-  "Are you sure? I'm bringing chocolates… 🍫",
-  "But we’d look so cute together 🥺",
-  "I already told my mom about you 😳",
-  "Don’t break my romantic heart 💔",
-  "Last chance… I’ll plan the perfect date 💐"
+  "Sure kana ba jan bossing?",
+  "Sure na sure naba? Walang bawian to",
+  "Love naman ToT",
+  "PLEASE PLEASE PLEASE~~~",
+  "Gena tapon ko mga bibigay q sayu hmppp"
 ];
 
 // Sad cat meme GIFs 😿
