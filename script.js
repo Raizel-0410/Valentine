@@ -7,7 +7,7 @@ let yesSize = 1;
 
 const convinceTexts = [
   "Sure kana ba jan bossing?",
-  "Sure na sure naba? Walang bawian to",
+  "LUH Sure na sure naba? Walang bawian to",
   "Love naman (ToT)",
   "PLEASE PLEASE PLEASE~~~",
   "Sige na huhuhuhu",
