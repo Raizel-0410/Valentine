@@ -8,9 +8,15 @@ let yesSize = 1;
 const convinceTexts = [
   "Sure kana ba jan bossing?",
   "Sure na sure naba? Walang bawian to",
-  "Love naman ToT",
+  "Love naman (ToT)",
   "PLEASE PLEASE PLEASE~~~",
-  "Gena tapon ko mga bibigay q sayu hmppp"
+  "Sige na huhuhuhu",
+  "Look I'm really sad na oh :(((",
+  "Click mona and YES mhiee ><",
+  "Dimo pag sisisihan to pramis!!!!",
+  "Sure naba talaga ikaw mhie???",
+  "Papayag nayan~~~~~",
+  "GENAAAAAAA (ToT)"
 ];
 
 // Sad cat meme GIFs 😿
