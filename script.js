@@ -51,7 +51,7 @@ yesBtn.addEventListener("click", () => {
     headers: { "Content-Type": "application/x-www-form-urlencoded" },
     body: new URLSearchParams({
       "form-name": "valentine-yes",
-      "response": "She said YES!!! 💖"
+      "response": "NAG YES SYA MAN!!! 💖"
     })
   });
 
