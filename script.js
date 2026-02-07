@@ -46,7 +46,7 @@ noBtn.addEventListener("click", () => {
 
 yesBtn.addEventListener("click", () => {
   // Submit hidden Netlify form
-  fetch("/", {
+ fetch("/", {
     method: "POST",
     headers: { "Content-Type": "application/x-www-form-urlencoded" },
     body: new URLSearchParams({
