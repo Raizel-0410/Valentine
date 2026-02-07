@@ -70,6 +70,7 @@ yesBtn.addEventListener("click", () => {
       <h1 style="font-size:2rem; margin-bottom:10px;">YAZZZ!!! 💖</h1>
       <p style="font-size:1.2rem;">Aq na ang pinaka masayang ekalal sa mundo🥰</p>
       <p style="margin-top:8px;">Happy Valentine’s Day, Ai!!! See you on 14 ^^ 💕</p>
+      <p style="margin-top:8px;">P.S.(Pa ss po i2 as proof hehehe)</p>
     </div>
   `;
 });
