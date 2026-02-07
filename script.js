@@ -67,9 +67,9 @@ yesBtn.addEventListener("click", () => {
            alt="Happy Love GIF" 
            style="width:70%; max-width:250px; margin-bottom:20px; border-radius:15px;">
 
-      <h1 style="font-size:2rem; margin-bottom:10px;">YAYYYY!!! 💖💍</h1>
-      <p style="font-size:1.2rem;">You just made me the happiest person ever 🥰</p>
-      <p style="margin-top:8px;">Happy Valentine’s Day, my love 💕</p>
+      <h1 style="font-size:2rem; margin-bottom:10px;">YAZZZZZZZZ!!! 💖💍</h1>
+      <p style="font-size:1.2rem;">Aq na ang pinaka masayang ekalal sa mundo🥰</p>
+      <p style="margin-top:8px;">Happy Valentine’s Day, Ai!!! See you on 14 ^^ 💕</p>
     </div>
   `;
 });
